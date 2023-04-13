@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f22-shop-app/static/css/main.aa38ac68.css",
+    "main.js": "/f22-shop-app/static/js/main.56937106.js",
+    "index.html": "/f22-shop-app/index.html",
+    "main.aa38ac68.css.map": "/f22-shop-app/static/css/main.aa38ac68.css.map",
+    "main.56937106.js.map": "/f22-shop-app/static/js/main.56937106.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa38ac68.css",
+    "static/js/main.56937106.js"
+  ]
+}
